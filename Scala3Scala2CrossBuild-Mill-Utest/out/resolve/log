@@ -2,7 +2,6 @@ all
 clean
 helloworld
 inspect
-par
 path
 plan
 resolve
