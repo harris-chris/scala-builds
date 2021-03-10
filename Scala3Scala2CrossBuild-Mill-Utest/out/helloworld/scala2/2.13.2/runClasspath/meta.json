@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:c984eca8:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/resources",
+        "ref:52697b95:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala2/2.13.2/compile/dest/classes",
+        "qref:90d489be:/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar"
+    ],
+    "valueHash": -2014351904,
+    "inputsHash": 1230553692
+}

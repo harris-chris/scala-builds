@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala3/3.0.0-RC1/test/compile/dest/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mThe compiler class loader is badly configured.[0m
+[0m[[0m[33mwarn[0m] [0m[0mConsider using a more recent version of your build tool:[0m
+[0m[[0m[33mwarn[0m] [0m[0m - sbt >= 1.4.0 and sbt-dotty >= 1.5.0[0m
+[0m[[0m[33mwarn[0m] [0m[0m - Mill >= 0.9.3-21-002361[0m
+[0m[[0m[33mwarn[0m] [0m[0m - Bloop >= 1.4.6-23-20a501bc[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

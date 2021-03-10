@@ -1,0 +1,8 @@
+{
+    "value": [
+        "ref:c984eca8:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/src",
+        "ref:f7b5a355:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/2"
+    ],
+    "valueHash": 231352769,
+    "inputsHash": 1377604036
+}

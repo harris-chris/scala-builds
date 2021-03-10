@@ -1,0 +1,10 @@
+{
+    "value": [
+        {
+            "analysisFile": "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala2/2.13.2/compile/dest/zinc",
+            "classes": "ref:19807df0:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala2/2.13.2/compile/dest/classes"
+        }
+    ],
+    "valueHash": -1704857475,
+    "inputsHash": 612877746
+}

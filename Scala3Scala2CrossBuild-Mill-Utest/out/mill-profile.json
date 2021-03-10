@@ -1,0 +1,297 @@
+[
+    {
+        "label": "mill.scalalib.ZincWorkerModule.scalalibClasspath",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.forkArgs",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.forkEnv",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.testFrameworks",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.resources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.compilerInterfaceClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.classpath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].upstreamCompileOutput",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].sources",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].allSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].allSourceFiles",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].transitiveLocalClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].resources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].unmanagedClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalaVersion",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].transitiveCompileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalaOrganization",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalaLibraryIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].ivyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].transitiveIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].resolvedIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].compileClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].javacOptions",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalaCompilerClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalacPluginIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].compile",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.upstreamCompileOutput",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.sources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.allSources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.allSourceFiles",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].localClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.transitiveLocalClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.unmanagedClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.transitiveCompileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.scalaOrganization",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.scalaLibraryIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.ivyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.transitiveIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.resolvedIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.compileClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.scalaCompilerClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.compile",
+        "millis": 462,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.localClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.runIvyDeps",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.resolvedRunIvyDeps",
+        "millis": 32,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.upstreamAssemblyClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.runClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.forkWorkingDir",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "helloworld.scala3[3.0.0-RC1].test.test",
+        "millis": 597,
+        "cached": false
+    }
+]

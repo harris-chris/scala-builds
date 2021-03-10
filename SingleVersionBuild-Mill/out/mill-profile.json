@@ -1,0 +1,122 @@
+[
+    {
+        "label": "ScalaDate.sources",
+        "millis": 21,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.generatedSources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.allSources",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "mill.contrib.bloop.BloopImpl.moduleSourceMap",
+        "millis": 4,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.unmanagedClasspath",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalaVersion",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.platformSuffix",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.compileIvyDeps",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.transitiveCompileIvyDeps",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.ivyDeps",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.transitiveIvyDeps",
+        "millis": 4,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalaOrganization",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalaLibraryIvyDeps",
+        "millis": 21,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.resources",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalacPluginIvyDeps",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalacPluginClasspath",
+        "millis": 76,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalacOptions",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.scalaCompilerClasspath",
+        "millis": 259,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.javacOptions",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.forkArgs",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.mainClass",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.bloop.config",
+        "millis": 89,
+        "cached": false
+    },
+    {
+        "label": "ScalaDate.bloop.writeConfig",
+        "millis": 25,
+        "cached": false
+    },
+    {
+        "label": "mill.contrib.bloop.BloopImpl.install",
+        "millis": 4,
+        "cached": false
+    }
+]

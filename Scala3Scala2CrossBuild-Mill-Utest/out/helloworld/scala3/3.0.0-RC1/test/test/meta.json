@@ -1,0 +1,15 @@
+{
+    "value": [
+        "Tests: 1, Passed: 1, Failed: 0",
+        [
+            {
+                "fullyQualifiedName": "helloworld.HelloWorldTests",
+                "selector": "helloworld.HelloWorldTests.checkVersion",
+                "duration": 8,
+                "status": "Success"
+            }
+        ]
+    ],
+    "valueHash": -1203733732,
+    "inputsHash": 217886274
+}
