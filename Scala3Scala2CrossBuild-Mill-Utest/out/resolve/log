@@ -1,12 +1,1 @@
-all
-clean
-helloworld
-inspect
-path
-plan
-resolve
-show
-shutdown
-version
-visualize
-visualizePlan
+helloworld.scala3[3.0.0-RC1]

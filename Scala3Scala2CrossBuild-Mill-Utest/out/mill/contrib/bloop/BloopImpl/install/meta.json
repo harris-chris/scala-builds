@@ -1,0 +1,30 @@
+{
+    "value": [
+        [
+            "helloworld.scala2[2.13.3].test",
+            "ref:9b35aacb:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala2[2.13.3].test.json"
+        ],
+        [
+            "helloworld.scala2[2.13.3]",
+            "ref:c57cc4de:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala2[2.13.3].json"
+        ],
+        [
+            "helloworld.scala2[2.13.2]",
+            "ref:3c7bc83b:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala2[2.13.2].json"
+        ],
+        [
+            "helloworld.scala2[2.13.2].test",
+            "ref:8ab01da0:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala2[2.13.2].test.json"
+        ],
+        [
+            "helloworld.scala3[3.0.0-RC1]",
+            "ref:8c06ea2f:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala3[3.0.0-RC1].json"
+        ],
+        [
+            "helloworld.scala3[3.0.0-RC1].test",
+            "ref:6656c214:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala3[3.0.0-RC1].test.json"
+        ]
+    ],
+    "valueHash": -1443831807,
+    "inputsHash": -2066538248
+}

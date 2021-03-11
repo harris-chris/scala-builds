@@ -1,0 +1,8 @@
+{
+    "value": [
+        "helloworld.scala2[2.13.3]",
+        "ref:c57cc4de:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/helloworld.scala2[2.13.3].json"
+    ],
+    "valueHash": -1537103314,
+    "inputsHash": -1276358890
+}

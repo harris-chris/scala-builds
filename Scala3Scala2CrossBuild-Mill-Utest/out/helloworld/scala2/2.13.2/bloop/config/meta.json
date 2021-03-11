@@ -1,0 +1,119 @@
+{
+    "value": {
+        "version": "1.1.2",
+        "project": {
+            "name": "helloworld.scala2[2.13.2]",
+            "directory": "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld",
+            "workspaceDir": [
+                "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest"
+            ],
+            "sources": [
+                "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/2.13.2/main"
+            ],
+            "dependencies": [
+                
+            ],
+            "classpath": [
+                "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar"
+            ],
+            "out": "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/out/helloworld.scala2[2.13.2]",
+            "classesDir": "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/.bloop/out/helloworld.scala2[2.13.2]/classes",
+            "resources": [
+                [
+                    "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/resources"
+                ]
+            ],
+            "scala": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-compiler",
+                    "version": "2.13.2",
+                    "options": [
+                        
+                    ],
+                    "jars": [
+                        "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.2/scala-compiler-2.13.2.jar",
+                        "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.2/scala-reflect-2.13.2.jar",
+                        "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar",
+                        "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.14.1/jline-3.14.1.jar",
+                        "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
+                    ],
+                    "analysis": [
+                        
+                    ],
+                    "setup": [
+                        
+                    ]
+                }
+            ],
+            "java": [
+                {
+                    "options": [
+                        
+                    ]
+                }
+            ],
+            "sbt": [
+                
+            ],
+            "test": [
+                
+            ],
+            "platform": [
+                {
+                    "$type": "bloop.config.Config.Platform.Jvm",
+                    "config": {
+                        "$type": "bloop.config.Config.JvmConfig",
+                        "home": [
+                            "/nix/store/48ddc74sdlinbg5q5655i4z8kp6xasb0-openjdk-11.0.9+11"
+                        ],
+                        "options": [
+                            "-Duser.dir=/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest"
+                        ]
+                    },
+                    "mainClass": [
+                        
+                    ]
+                }
+            ],
+            "resolution": [
+                {
+                    "modules": [
+                        {
+                            "organization": "org.scala-lang",
+                            "name": "scala-library",
+                            "version": "2.13.2",
+                            "configurations": [
+                                
+                            ],
+                            "artifacts": [
+                                {
+                                    "name": "scala-library",
+                                    "classifier": [
+                                        
+                                    ],
+                                    "checksum": [
+                                        
+                                    ],
+                                    "path": "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar"
+                                },
+                                {
+                                    "name": "scala-library",
+                                    "classifier": [
+                                        "sources"
+                                    ],
+                                    "checksum": [
+                                        
+                                    ],
+                                    "path": "/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2-sources.jar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "valueHash": -1462752789,
+    "inputsHash": 2107948529
+}

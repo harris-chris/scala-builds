@@ -1,0 +1,27 @@
+{
+    "value": {
+        "helloworld.scala3[3.0.0-RC1]": [
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/3.0.0-RC1/main"
+        ],
+        "helloworld.scala2[2.13.2].test": [
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/src",
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/2"
+        ],
+        "helloworld.scala2[2.13.2]": [
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/2.13.2/main"
+        ],
+        "helloworld.scala2[2.13.3].test": [
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/src",
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/2"
+        ],
+        "helloworld.scala2[2.13.3]": [
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/2.13.3/main"
+        ],
+        "helloworld.scala3[3.0.0-RC1].test": [
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/src",
+            "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/test/3"
+        ]
+    },
+    "valueHash": 1235881160,
+    "inputsHash": 384176419
+}

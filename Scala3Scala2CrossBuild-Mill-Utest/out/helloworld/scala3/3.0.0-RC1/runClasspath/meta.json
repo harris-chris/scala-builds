@@ -1,0 +1,10 @@
+{
+    "value": [
+        "ref:c984eca8:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/HelloWorld/resources",
+        "ref:a3a13a2d:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala3/3.0.0-RC1/compile/dest/classes",
+        "qref:6cae6d6b:/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3.0.0-RC1/3.0.0-RC1/scala3-library_3.0.0-RC1-3.0.0-RC1.jar",
+        "qref:d1c58465:/home/chris/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar"
+    ],
+    "valueHash": -444986609,
+    "inputsHash": -919468475
+}

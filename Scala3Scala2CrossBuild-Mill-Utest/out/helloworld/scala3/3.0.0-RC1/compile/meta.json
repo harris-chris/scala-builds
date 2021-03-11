@@ -1,8 +1,8 @@
 {
     "value": {
         "analysisFile": "/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala3/3.0.0-RC1/compile/dest/zinc",
-        "classes": "ref:7f15508e:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala3/3.0.0-RC1/compile/dest/classes"
+        "classes": "ref:a3a13a2d:/data/vap/scala-builds/Scala3Scala2CrossBuild-Mill-Utest/out/helloworld/scala3/3.0.0-RC1/compile/dest/classes"
     },
-    "valueHash": -1089461582,
-    "inputsHash": 1186839900
+    "valueHash": 428814596,
+    "inputsHash": 288832110
 }
